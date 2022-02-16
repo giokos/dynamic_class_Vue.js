@@ -1,0 +1,1 @@
+# dynamic_class_Vue.js
