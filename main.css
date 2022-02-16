@@ -1,0 +1,14 @@
+.box {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 13px gray;
+    margin: 50px auto;
+}
+.big-border {
+    border: 5px solid black;
+    border-radius: 50%;
+}
+.selected {
+    background-color: aqua;
+}
